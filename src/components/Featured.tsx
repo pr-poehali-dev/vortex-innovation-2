@@ -189,7 +189,7 @@ export default function Featured() {
               { label: "Бежевый", color: "#e8ddd0" },
               { label: "Кремовый", color: "#f7f3ee" },
               { label: "Коричневый", color: "#8B6F5E" },
-              { label: "Пурпурный", color: "#8B7BA8" },
+              { label: "Пудровый", color: "#E8C5C5" },
             ].map((swatch) => (
               <div key={swatch.label} className="flex flex-col items-center gap-2">
                 <div
